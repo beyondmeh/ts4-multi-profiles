@@ -47,13 +47,13 @@ $ curl https://gist.githubusercontent.com/keithieopia/434f3575ec1f020d6589a4c01d
 **NOTE:** SKS Public Key Servers (such as pgp.mit.edu) don't support Curve25519 keys yet. In the meantime, consider using [Keybase.io](https://keybase.io/); my username is [timothykeith](https://keybase.io/timothykeith).
 
 ### Bug Reports
-Submit bug reports via GitHub's [Issue Tracker](https://github.com/keithieopia/ts4-switch-profile/issues).
-If you really like me, submit a [pull request](https://github.com/keithieopia/ts4-switch-profile/pulls) instead.
+Submit bug reports via GitHub's [Issue Tracker](https://github.com/keithieopia/ts4-multi-profiles/issues).
+If you really like me, submit a [pull request](https://github.com/keithieopia/ts4-multi-profiles/pulls) instead.
 
 
 ## Author
 Copyright &copy; 2019 Timothy Keith, except where otherwise noted.
 
-Licensed under the [MIT license](https://raw.githubusercontent.com/keithieopia/keithieopia.com/master/LICENSE).
+Licensed under the [MIT license](https://raw.githubusercontent.com/keithieopia/ts4-multi-profiles/master/LICENSE).
 
 *This is free software: you are free to change and redistribute it. There is NO WARRANTY, to the extent permitted by law.*
