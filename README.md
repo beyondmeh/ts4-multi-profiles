@@ -7,7 +7,7 @@ allowing multiple saved games to be completely independent of each other.
 
 Use cases:
 
-* Multiple people using one Windows account // - now your siblings won't ruin your game!//
+* Multiple people using one Windows account &mdash; *now your siblings won't ruin your game!*
 * Mod development and debugging
 * Starting fresh without forever erasing your progress
 * Implementing backups
