@@ -21,7 +21,7 @@ This script redirects where //The Sims 4// saves it's data (`Documents/Electroni
 to a different folder, creating the ability to have multiple profiles for the game.
 
 ## Installation
-- Download `ts4-switch-profile.ps1` into `Documents/Electronic Arts`
+- Download `switch-profile.ps1` into `Documents/Electronic Arts`
 - Within `Documents/Electronic Arts`, rename `The Sims 4` to whatever you want your first profile to be called
 - Create more folders for every profile you want:
   - Create empty folders when you want profiles to start as new games
