@@ -27,15 +27,9 @@ to a different folder, creating the ability to have multiple profiles for the ga
   - Create empty folders when you want profiles to start as new games
   - Duplicate the old `The Sims 4` folder when you want duplicate profiles with your original saved game
 
-## Running
-- Double-click this script to run it, it will ask for admin permissions (needed to create symlinks)
-- Behavior:
-  - With one profile folder, the script will auto link it so //The Sims 4// will use it
-  - Two profile folders, the script will swap between the two profiles each time it is run
-  - Three or more profile folders, the script will ask which profile you want to use
 
 ## Feedback
-I would love your feedback! If you found any of these code useful, please drop me [an email](mailto:timothykeith@gmail.com). For the privacy conscious, feel free to encrypt any messages using my [PGP key](https://gist.githubusercontent.com/keithieopia/434f3575ec1f020d6589a4c01dc0847e/raw/2e0749f2966ff501ee28797a926229c081f7e652/timothykeith.pub.asc):
+I would love your feedback! If you found this useful, please drop me [an email](mailto:timothykeith@gmail.com). For the privacy conscious, feel free to encrypt any messages using my [PGP key](https://gist.githubusercontent.com/keithieopia/434f3575ec1f020d6589a4c01dc0847e/raw/2e0749f2966ff501ee28797a926229c081f7e652/timothykeith.pub.asc):
 
 > 46E6 9F69 90C1 DE8C 9791 88EE 94A4 E2D4 *6B32 AA11*
 
@@ -52,7 +46,7 @@ If you really like me, submit a [pull request](https://github.com/keithieopia/ts
 
 
 ## Author
-Copyright &copy; 2019 Timothy Keith, except where otherwise noted.
+Copyright &copy; 2019 - 2020 Timothy Keith, except where otherwise noted.
 
 Licensed under the [MIT license](https://raw.githubusercontent.com/keithieopia/ts4-multi-profiles/master/LICENSE).
 
